@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps, IAAS, and PAAS as a Cloud Engineer with Hanu Software, An Insight Company. I have worked in different domains like development, deployment, migration, networking, virtualization & security and love to learn more and more in the field.<br>
+🔭 I’m currently working on DevOps, IAAS, and PAAS as a Cloud Engineer with Hanu Software, An Insight Company. I have worked in different domains like development, deployment, migration, networking, virtualization & security and love to learn more in the field.<br>
 👯 I always look to connect with more and more people (my teammates and out-of-team).<br>
 🌱 I’m currently learning DevOps and various tools and services used in all three clouds - Azure, AWS & GCP.<br>
 
